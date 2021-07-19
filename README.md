@@ -1,3 +1,3 @@
 # Inventory
-this inventory is completely terminal based program.
-Exception handlings, data storing, and Gui are to be implemented soom
+This Inventory is completely Terminal based program.
+Exception Handlings, Data storing, and GUI are to be implemented soom
